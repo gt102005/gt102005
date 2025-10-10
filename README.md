@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Gopal Tayade! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<h3 align="center">Full-Stack Web Developer | DSA Enthusiast | Cybersecurity Explorer</h3>
+<h3 align="center">Full-Stack Web Developer | DSA Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=1000&height=40&lines=Freelance+Web+Developer+%7C+React+%2B+PHP+%2B+Node.js;Problem+Solver+on+LeetCode+%7C+Focused+on+DSA;Cybersecurity+Learner+%7C+Burp+Suite+%2F+XAMPP+Exploration;Building+Full-Stack+Projects+%7C+MongoDB+%2B+MySQL"/>
