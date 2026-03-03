@@ -11,7 +11,7 @@
 
 As a passionate learner and builder, I'm committed to solving real-world problems through full-stack development and strong programming fundamentals. From frontend UIs to backend APIs, I enjoy crafting complete systems that are clean, scalable, and secure. Alongside freelancing and academics, I actively sharpen my skills in Data Structures & Algorithms and delve into cybersecurity practices.
 
-* 🎓 **Computer Engineering** student at **Savitribai Phule Pune University** | **CGPA: 8.27**
+* 🎓 **Computer Engineering** student at **Savitribai Phule Pune University** | **CGPA: 9.15**
 * 🌟 **Nurturing Brilliance Scholar** | Cummins India Pvt Ltd
 * 👨‍💻 **Freelance Full-Stack Developer** | MERN, PHP, React
 * 💡 Passionate about **solving DSA problems** and **optimizing code logic**
